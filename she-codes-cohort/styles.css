@@ -1,0 +1,46 @@
+.Topsection {
+  width: 100%;
+  display: inline-block;
+}
+
+header {
+  display: inline-block;
+}
+
+.searchimg {
+  width: 12px;
+  height: 12px;
+}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+}
+
+.shecodes {
+  color: lightgrey;
+}
+
+h3 {
+  color: black;
+  font-weight: bold;
+}
+
+h4 {
+  color: palevioletred;
+}
+
+.navbar {
+  float: right;
+  display: inline-block;
+}
+
+h2 {
+  text-align: center;
+}
+
+.petimages {
+  display: block;
+  width: 10px;
+  height: 10px;
+}
